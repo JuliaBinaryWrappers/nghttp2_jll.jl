@@ -5,6 +5,7 @@ export libnghttp2
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
+LIBPATH_default = "~/lib:/usr/local/lib:/lib:/usr/lib"
 
 # Relative path to `libnghttp2`
 const libnghttp2_splitpath = ["lib", "libnghttp2.14.dylib"]
@@ -28,7 +29,7 @@ function __init__()
 
     # Initialize PATH and LIBPATH environment variable listings
     global PATH_list, LIBPATH_list
-    # We first need to add to LIBPATH_list the libraries provided by Julia
+    # Lastly, we need to add to LIBPATH_list the libraries provided by Julia
     append!(LIBPATH_list, [joinpath(Sys.BINDIR, Base.LIBDIR, "julia"), joinpath(Sys.BINDIR, Base.LIBDIR)])
     global libnghttp2_path = normpath(joinpath(artifact_dir, libnghttp2_splitpath...))
 
