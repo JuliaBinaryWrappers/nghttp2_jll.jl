@@ -1,143 +1,143 @@
 [[nghttp2]]
 arch = "aarch64"
-git-tree-sha1 = "449ad7ebe18d420a43a2cbfc275eda66375a435b"
+git-tree-sha1 = "9c16667a48d23ca1ec1e2d7ee962e3c73b786936"
 os = "macos"
 
     [[nghttp2.download]]
-    sha256 = "21f7ef26fb2c3cc230c6ae9898582943eade330e0685d7093fd5ce1003d20ce3"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "79b80e09f41ce996b4b92870174b128914cb5345c8cb4d1a4d55a703288b063c"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.aarch64-apple-darwin.tar.gz"
 [[nghttp2]]
 arch = "aarch64"
-git-tree-sha1 = "7db431fc6c2a097a91a25f993c50d1d82bbff9be"
+git-tree-sha1 = "b58d3def36e6c6e75723f4e82a9ecd5ddf187306"
 libc = "glibc"
 os = "linux"
 
     [[nghttp2.download]]
-    sha256 = "8796e92cac224c40c22f6b461f3be816595a585f8422cf2ba2af56ab47db3d60"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "38c796e239a7cec8f9a30113fc3aafa81195f02f8b8ba401dfe83df122cf7254"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.aarch64-linux-gnu.tar.gz"
 [[nghttp2]]
 arch = "aarch64"
-git-tree-sha1 = "eef50933a49fbf91817885958edd7c955d5c1139"
+git-tree-sha1 = "cb05386769b56db294ce913334789bbeada31584"
 libc = "musl"
 os = "linux"
 
     [[nghttp2.download]]
-    sha256 = "a9a0ce107a3842af801cc41c729ec637112bbbe28aa3b2b4a5115250326602ec"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.aarch64-linux-musl.tar.gz"
+    sha256 = "d40e9d0b10d9436a22052a78ff3cb04b930e6756ffe80597cfd5a1563b3d1571"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.aarch64-linux-musl.tar.gz"
 [[nghttp2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "fac4093f742b0a6cbfd6d4116eb7b349c0400bc0"
+git-tree-sha1 = "fd656d35b8f0ba3627cc426a3b3c47d141787bc2"
 libc = "glibc"
 os = "linux"
 
     [[nghttp2.download]]
-    sha256 = "7bfa8a147eb969cfaa96eb95f102b36f79e32103b30e30615daf5ffbbd544a87"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "cf7e7fe24adbcdaa9e647bf29b997f5dc19cf358dc0e0d49f08b0b7f3fd473d2"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.armv6l-linux-gnueabihf.tar.gz"
 [[nghttp2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "3e7c4df83d985f90a28e3194b1572280458dc3bc"
+git-tree-sha1 = "688c24ba8519343699b064a60d5651e67b845a4e"
 libc = "musl"
 os = "linux"
 
     [[nghttp2.download]]
-    sha256 = "ba05ca4b20712b8bdd135b0865ca803843cba58ceccb136cf0218468e6632527"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "d68ab60168735c61348f8704d5436d4a551068769be76d384d7b3cf96b78d8c8"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.armv6l-linux-musleabihf.tar.gz"
 [[nghttp2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "9808b8d7b333617a3c549759ac5a1df9f1d76fc4"
+git-tree-sha1 = "92074482e05bcce02c3947f796ce353079dfd91a"
 libc = "glibc"
 os = "linux"
 
     [[nghttp2.download]]
-    sha256 = "f2157b1beb3d92c8175d695b8713536d704fdd1205e588c3cd3a9f19cc2aedc2"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "5837a90f78ba1a45a55f9925789717180b87c8190a652931c9a1140ec125bb5a"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.armv7l-linux-gnueabihf.tar.gz"
 [[nghttp2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "6af537c6e804ad7b2048c9cfb1a41191207ebf2b"
+git-tree-sha1 = "6e39f02e69fed071008e8b8bc7c7d4fdd697596f"
 libc = "musl"
 os = "linux"
 
     [[nghttp2.download]]
-    sha256 = "515645ce93df0b26d685ce079a0500fd84eea8ceff3f994a8f5e1ab3dbfde008"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "fcc19414d38ac1913f11955749829ca0a08de28078d22b9c8938cb7f604c7931"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.armv7l-linux-musleabihf.tar.gz"
 [[nghttp2]]
 arch = "i686"
-git-tree-sha1 = "06907871b7feddbbbe163f02578a00604bea5888"
+git-tree-sha1 = "fa911695ddfc78ca151cff95573bada7331ca6a4"
 libc = "glibc"
 os = "linux"
 
     [[nghttp2.download]]
-    sha256 = "252ec5f7fbdfdaaa7cb8d47a484544795a76d9838f1a0d6919cf887baed16d70"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.i686-linux-gnu.tar.gz"
+    sha256 = "1772db0411d9f73fb770b9b17434f3be95fcbfa192391b447b92f450cfe84402"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.i686-linux-gnu.tar.gz"
 [[nghttp2]]
 arch = "i686"
-git-tree-sha1 = "368a09e210b0491ba46e804e828b0ac52aac8e4e"
+git-tree-sha1 = "114a1822350bff3d890cac8ab88bd6858bb76d09"
 libc = "musl"
 os = "linux"
 
     [[nghttp2.download]]
-    sha256 = "2116c1b19930b2dc5b3a00096445e8bf067c3f17001650736c9f3f73755d76dc"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.i686-linux-musl.tar.gz"
+    sha256 = "a7bff0672c9f65f802b6d0a602f646b04314e7ca09d12a9dfb0380171bca9869"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.i686-linux-musl.tar.gz"
 [[nghttp2]]
 arch = "i686"
-git-tree-sha1 = "96bad6de80a8ec5f0bef2d7eef70bafc2f17fd39"
+git-tree-sha1 = "2450d22492e485cd5c16dea0a56e095c698b3679"
 os = "windows"
 
     [[nghttp2.download]]
-    sha256 = "4f97f60b9be2c678670f5e377f2a3663503188868420fe47446c044bf4fc0549"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.i686-w64-mingw32.tar.gz"
+    sha256 = "3237bc329ca9ab1a23665b69a1948c7d87d295f26e90d1673a09af4b3a9a85ec"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.i686-w64-mingw32.tar.gz"
 [[nghttp2]]
 arch = "powerpc64le"
-git-tree-sha1 = "63a4b91a75d72013d0fce577c78396a7fcc6a3f4"
+git-tree-sha1 = "5fdbf7a17b2f17f3b2d27944b5e48fcd48dd907d"
 libc = "glibc"
 os = "linux"
 
     [[nghttp2.download]]
-    sha256 = "d07796693574fc3ab055d09401536617e9f55c077941050d03caf6c255d8331a"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "8233e6a6fcd81bff743ce46de71e5a9512283e0c5cf4ae7c20bc3334a3514400"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.powerpc64le-linux-gnu.tar.gz"
 [[nghttp2]]
 arch = "x86_64"
-git-tree-sha1 = "5248a03f6dbc9d5166bc579abd75871e3bd945d9"
+git-tree-sha1 = "ed04e1634179c3fe0fc9ac3572b846b8a7faa494"
 os = "macos"
 
     [[nghttp2.download]]
-    sha256 = "33292d5469fd26b0e60747abab19d22a438c3a69a432fc75a04da8f1e7a40206"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "f28fbe0c9af27c7e17a1e483e5751505892581dd712ae557f6ab730403481179"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.x86_64-apple-darwin.tar.gz"
 [[nghttp2]]
 arch = "x86_64"
-git-tree-sha1 = "fb048fd1f726bdab270fede22a8748dc8684208f"
+git-tree-sha1 = "11895391e48dceefb2ec10a145d778e19ee0114c"
 libc = "glibc"
 os = "linux"
 
     [[nghttp2.download]]
-    sha256 = "e9d4a7b2da67c73673595d73ff2eda0cbd0a3114563c88e06d14ef3561ade8a6"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "c0d66af0f20d2aa23a3f2daddbd820cd7d568c76ec9e7f3ce01a411fc91c0f63"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.x86_64-linux-gnu.tar.gz"
 [[nghttp2]]
 arch = "x86_64"
-git-tree-sha1 = "b3a46d150feb318a809e278ac859c5319d92a2aa"
+git-tree-sha1 = "52fefb302424067c48f1c472215f3d9471ebc5ba"
 libc = "musl"
 os = "linux"
 
     [[nghttp2.download]]
-    sha256 = "4e896e7f3ff9251f110163e647c722a8416daa100708702bb5b49df3538757f5"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.x86_64-linux-musl.tar.gz"
+    sha256 = "66d3582108078615ac26b62e697499cdcaa547f60e7b3ee1564dbc9901f662dd"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.x86_64-linux-musl.tar.gz"
 [[nghttp2]]
 arch = "x86_64"
-git-tree-sha1 = "0d0a4584cffc91aa3640f0920cceebb4862555ff"
+git-tree-sha1 = "022e887d2ed9efa130b590c1a122be196f4566fb"
 os = "freebsd"
 
     [[nghttp2.download]]
-    sha256 = "eef6803a7b263815a20812fcca7dff90ba65a7b26fabf3a2ed42c743caaa2d53"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "07690424eccc4bb2556769d747959fee764b5bbe24d91b02a36e7b87929751e8"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.x86_64-unknown-freebsd.tar.gz"
 [[nghttp2]]
 arch = "x86_64"
-git-tree-sha1 = "42b4bd97663db00c812362e5356bb4bc00578091"
+git-tree-sha1 = "ff5ce045ebf252091e56056de392f43d3781364c"
 os = "windows"
 
     [[nghttp2.download]]
-    sha256 = "3eb55b232f5c901e4f1d58c6a2c02c125f36f2ad8ed131d9052dd55fc886beec"
-    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+1/nghttp2.v1.41.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "3f7094d546bd7e07f0f8bdabb59653a554416a6631aa58c0b0228e718cc6a214"
+    url = "https://github.com/JuliaBinaryWrappers/nghttp2_jll.jl/releases/download/nghttp2-v1.41.0+2/nghttp2.v1.41.0.x86_64-w64-mingw32.tar.gz"
